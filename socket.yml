@@ -1,13 +1,12 @@
 name: giphy
 description: Integration with Giphy (giphy.com)
-version: 0.0.1
+version: 0.0.2
 keywords:
   - gif
   - giphy
   - fun
   - memes
   - meme
-
 endpoints:
   random:
     description: Returns random gif
@@ -20,8 +19,7 @@ endpoints:
     response:
       mimetype: application/json
       examples:
-        -
-          exit_code: 200
+        - exit_code: 200
           example: |
             {
               "type": "gif",
@@ -50,8 +48,7 @@ endpoints:
               "username": "",
               "caption": ""
             }
-        -
-          exit_code: 400
+        - exit_code: 400
           example: |
             {
               "message": "Something went wrong!"

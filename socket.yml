@@ -10,7 +10,6 @@ keywords:
 endpoints:
   random:
     description: Returns random gif
-    file: scripts/random.js
     parameters:
       tag:
         type: string

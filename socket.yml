@@ -8,3 +8,10 @@ endpoints:
         name:
           type: string
           description: giphy tag
+    outputs:
+      success:
+        exit_code: 200
+        description: Success
+      fail:
+        exit_code: 400
+        description: Failed

@@ -1,11 +1,11 @@
 # Syncano Socket for getting random giphy content by tag
 
 [![Syncano Socket](https://img.shields.io/badge/syncano-socket-blue.svg)](https://syncano.io)
-[![CircleCI branch](https://img.shields.io/circleci/project/github/eyedea-io/syncano-socket-document-generator/master.svg)](https://circleci.com/gh/eyedea-io/syncano-socket-document-generator/tree/master)
-![Codecov branch](https://img.shields.io/codecov/c/github/eyedea-io/syncano-socket-document-generator/master.svg)
+[![CircleCI branch](https://img.shields.io/circleci/project/github/eyedea-io/syncano-socket-giphy/master.svg)](https://circleci.com/gh/eyedea-io/syncano-socket-giphy/tree/master)
+![Codecov branch](https://img.shields.io/codecov/c/github/eyedea-io/syncano-socket-giphy/master.svg)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
-[![npm](https://img.shields.io/npm/dw/@eyedea-sockets/document-generator.svg)](https://www.npmjs.com/package/@eyedea-sockets/)
-![license](https://img.shields.io/github/license/eyedea-io/syncano-socket-document-generator.svg)
+[![npm](https://img.shields.io/npm/dw/@eyedea-sockets/giphy.svg)](https://www.npmjs.com/package/@eyedea-sockets/)
+![license](https://img.shields.io/github/license/eyedea-io/syncano-socket-giphy.svg)
 
 Main Socket features:
 

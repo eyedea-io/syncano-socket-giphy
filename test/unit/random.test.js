@@ -1,7 +1,7 @@
 /* global describe it */
 import {run} from '@syncano/test'
 
-describe('generate', function () {
+describe('random', function () {
   it('simple test', async () => {
 
     require('@syncano/core').__setMocks({

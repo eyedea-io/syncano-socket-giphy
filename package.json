@@ -1,14 +1,17 @@
 {
   "name": "@eyedea-sockets/giphy",
   "version": "0.0.1",
-  "description": "Description",
+  "description": "Syncano Socket for generating documents from mustache templates",
   "repository": "https://github.com/eyedea-io/syncano-socket-giphy.git",
   "public": true,
   "author": "Eyedea <hello@eyedea.io> https://eyedea.io",
   "license": "MIT",
   "keywords": [
-    "syncano",
-    "socket"
+    "gif",
+    "giphy",
+    "fun",
+    "memes",
+    "meme"
   ],
   "peerDependencies": {
     "@syncano/cli": "^0.13.0-alpha.f6ea95d4"

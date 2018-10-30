@@ -1,2 +1,5 @@
 node_modules
 **/scripts/.bundles
+
+.dist
+coverage

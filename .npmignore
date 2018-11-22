@@ -2,3 +2,7 @@ node_modules
 syncano/.dist
 syncano/.bundles
 syncano/**/scripts/.bundles
+.circleci
+.dist
+.envrc
+.envrc.default
